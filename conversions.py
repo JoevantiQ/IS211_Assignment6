@@ -32,6 +32,3 @@ def convertKelvinToFahrenheit(kelvin):
     """Takes in a float representing a Kelvin measurement, and returns that temperature converted into Fahrenheit"""
     fahrenheit = (kelvin - 273.15) * 9/5 + 32
     return fahrenheit
-
-
-#I struggled with this assignment
